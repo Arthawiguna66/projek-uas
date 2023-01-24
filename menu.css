@@ -1,0 +1,26 @@
+.footer{
+    background-color: rgba(20, 24, 19, 0.548);
+    padding: 2rem 5%;
+    color: aliceblue;
+}
+.footer ul{
+    list-style: none;
+}
+.footer a{
+    text-decoration: none;
+    color: azure;
+}
+.footer a:hover{
+    color: antiquewhite;
+    background-color: aquamarine;
+}
+.jdsub{
+    text-align: center;
+    color: blanchedalmond;
+}
+.booking{
+    padding: 2rem 5%;
+}
+.form-label{
+    color: aqua ;
+}
